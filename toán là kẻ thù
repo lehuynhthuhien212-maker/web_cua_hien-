@@ -1,0 +1,61 @@
+```html
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TOÁN LÀ KẺ THÙ 💀</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background: #0d0d0d;
+            color: white;
+            text-align: center;
+            overflow-x: hidden;
+        }
+
+        header {
+            padding: 20px;
+            background: #171717;
+            border-bottom: 2px solid #ff3030;
+        }
+
+        header h2 {
+            color: #ff3030;
+            letter-spacing: 3px;
+        }
+
+        .hero {
+            min-height: 85vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 30px 20px;
+            background:
+                radial-gradient(circle at center,
+                #401010 0%, #171010 35%, #0d0d0d 75%);
+        }
+
+        .skull {
+            font-size: 85px;
+            animation: float 2s infinite ease-in-out;
+        }
+
+        h1 {
+            font-size: clamp(35px, 7vw, 75px);
+            color: #ff3030;
+            text-shadow: 0 0 25px #ff0000;
+            margin: 20px 0;
+        }
+
+        .subtitle {
+            color: #cccc
+```
